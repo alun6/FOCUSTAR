@@ -107,7 +107,7 @@ __webpack_require__.r(__webpack_exports__);
   data: function data() {
     return {
       fileType: 'docx',
-      fileUrl: 'http://ashuai.work/api/word.docx'
+      fileUrl: 'https://wkbjcloudbos.bdimg.com/v1/wenku898//bwmark/3ad7f535171e396a6909af00fe4fed33?responseContentDisposition=attachment%3B%20filename%3D%22%25E8%25BD%25AF%25E4%25BB%25B6%25E6%25B5%258B%25E8%25AF%2595%25E4%25B9%258B%25E5%2586%258D%25E6%25B5%258B%25E8%25AF%2595%25E5%2592%258C%25E5%259B%259E%25E5%25BD%2592%25E6%25B5%258B%25E8%25AF%2595.docx%22%3B%20filename%2A%3Dutf-8%27%27%25E8%25BD%25AF%25E4%25BB%25B6%25E6%25B5%258B%25E8%25AF%2595%25E4%25B9%258B%25E5%2586%258D%25E6%25B5%258B%25E8%25AF%2595%25E5%2592%258C%25E5%259B%259E%25E5%25BD%2592%25E6%25B5%258B%25E8%25AF%2595.docx&responseContentType=application%2Foctet-stream&responseCacheControl=max-age%3D3888000&responseExpires=Mon%2C%2006%20Nov%202023%2014%3A21%3A36%20%2B0800&authorization=bce-auth-v1%2F46dc8cc346744dad800651823a96d9cd%2F2023-09-22T06%3A21%3A36Z%2F3000%2Fhost%2F4cdf8f00ddf76ce813583a0de9a3bdf8f9d037327ee12f719eef7593659c74ac&token=eyJ0eXAiOiJKSVQiLCJ2ZXIiOiIxLjAiLCJhbGciOiJIUzI1NiIsImV4cCI6MTY5NTM2NjY5NiwidXJpIjp0cnVlLCJwYXJhbXMiOlsicmVzcG9uc2VDb250ZW50RGlzcG9zaXRpb24iLCJyZXNwb25zZUNvbnRlbnRUeXBlIiwicmVzcG9uc2VDYWNoZUNvbnRyb2wiLCJyZXNwb25zZUV4cGlyZXMiXX0%3D.G1K03ojpUnC6NDJifoUXfqjKdCPhOpan5dBxlWkJxi8%3D.1695366696'
     };
   },
   methods: {}
