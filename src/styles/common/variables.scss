@@ -1,0 +1,37 @@
+// element ui variables
+$--color-primary: #409EFF !default;
+$--color-success: #13CE66 !default;
+$--color-warning: #FFBA00 !default;
+$--color-danger: #FF4949 !default;
+
+$--background-color-base: #F5F5F5 !default;
+
+$--border-color-light: #DFE4ED !default;
+$--border-color-lighter: #E6EBF5 !default;
+
+$--button-small-font-size: 13px !default;
+
+$--table-border: 1px solid #DFE6EC !default;
+
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@use "~element-ui/packages/theme-chalk/src/common/var";
+
+// FOCUSTAR UI variables
+$fu-search-bar-width: 100% !default;
+$fu-search-bar-height: 48px !default;
+$fu-search-bar-condition-color: #424242 !default;
+$fu-search-bar-condition-bgColor: #E6E6E6 !default;
+
+$fu-table-striped-bgColor: mix($--color-primary, #FFF, 5%) !default;
+$fu-table-select-columns-title-color: #8F959E !default;
+
+$filter-color: #646A73 !default;
+$filter-drawer-color: #646A73 !default;
+$filter-condition-color: #0C296E !default;
+$filter-condition-bgColor: rgba(51, 112, 255, 0.1) !default;
+$filter-option-bgColor: #F5F6F7 !default;
+$filter-scroll-bgColor: rgba(31, 35, 41, 0.1) !default;
+
+.iconfont {
+  font-size: inherit !important;
+}
